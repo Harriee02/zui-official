@@ -79,11 +79,6 @@ export default function Tags(props) {
     setSortFilter(value);
   };
 
-  // const handleButtonClick = () => {
-  //   // Handle button click action here
-  //   console.log('Button clicked!');
-  // };
-
   return (
     <Stack direction="column" spacing="1rem">
       <Stack direction="row" justifyContent="space-between">

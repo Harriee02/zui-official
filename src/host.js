@@ -1,6 +1,6 @@
 const hostConfig = {
-  auto: false,
-  default: 'http://localhost:8080'
+  auto: true,
+  default: 'http://localhost:5000'
 };
 
 const host = (manualHost = null) => {
